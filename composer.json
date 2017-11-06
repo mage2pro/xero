@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/xero"
 	,"version": "0.0.1"
-	,"description": "The «Xero» extension for Magento 2."
+	,"description": "Xero integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/xero"
 	,"license": "proprietary"
